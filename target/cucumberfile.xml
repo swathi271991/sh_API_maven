@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="2.005">
+<testcase classname="Delete Place API validation" name="Validating Delete Place" time="1.883">
+<failure message="expected:&lt;O[]K&gt; but was:&lt;O[o]K&gt;" type="org.junit.ComparisonFailure"><![CDATA[Given User has an Add Place Payload.........................................failed
+When user calls "DeletePlace" API using "DELETE" http Request using <name> <address> and <phone>.skipped
+Then validate the place id has been deleted.................................skipped
+
+StackTrace:
+org.junit.ComparisonFailure: expected:<O[]K> but was:<O[o]K>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at stepDefinations.AddPlaceStepDefination.something_in_the_response_should_be_something(AddPlaceStepDefination.java:92)
+	at stepDefinations.AddPlaceStepDefination.user_has_an_add_place_payload(AddPlaceStepDefination.java:103)
+	at ✽.User has an Add Place Payload(file:///F:/FinalAPIREstAssuredProject/FinalEOEAPI/src/test/java/features/ZeletePlacevalidation.feature:6)
+]]></failure>
+</testcase>
+</testsuite>

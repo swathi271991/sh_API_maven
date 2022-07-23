@@ -1,0 +1,17 @@
+POJOclasses\DeletePlaceResponsePoJO.class
+stepDefinations\DeletePlaceStepDefination.class
+resources\Dependency.class
+POJOclasses\UpdatePlacePOJO.class
+stepDefinations\UpdatePlaceStepDefination.class
+POJOclasses\UpdateResponsePoJo.class
+POJOclasses\GetResponsePoJo.class
+POJOclasses\DeletePlacePoJO.class
+stepDefinations\GetPlaceStepDefination.class
+stepDefinations\AddPlaceStepDefination.class
+POJOclasses\ResponsePoJO.class
+POJOclasses\AddPlace_Location.class
+POJOclasses\AddPlaceMain.class
+cucumberOptions\TestRunner.class
+resources\Utils.class
+resources\PlaceAPI.class
+POJOclasses\AddPlaceBODY.class

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: cucumberOptions.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.774 sec <<< FAILURE!
+Validating Delete Place(Delete Place API validation)  Time elapsed: 1.954 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<O[]K> but was:<O[o]K>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at stepDefinations.AddPlaceStepDefination.something_in_the_response_should_be_something(AddPlaceStepDefination.java:92)
+	at stepDefinations.AddPlaceStepDefination.user_has_an_add_place_payload(AddPlaceStepDefination.java:103)
+	at ?.User has an Add Place Payload(file:///F:/FinalAPIREstAssuredProject/FinalEOEAPI/src/test/java/features/ZeletePlacevalidation.feature:6)
+

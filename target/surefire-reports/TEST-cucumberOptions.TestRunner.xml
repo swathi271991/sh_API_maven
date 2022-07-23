@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="1" name="cucumberOptions.TestRunner" time="1.954" errors="0" skipped="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\SHREYANVI"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_333\jre"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_333\jre\lib\endorsed"/>
+    <property name="PSModulePath" value="%ProgramFiles(x86)%\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\AutoIt3\AutoItX"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="SHREYANVI"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="tags" value="@Test"/>
+    <property name="java.version" value="1.8.0_333"/>
+    <property name="JOB_NAME" value="X_Maven_API"/>
+    <property name="COMPUTERNAME" value="SHREYANVI"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="cucumberOptions.filter.tags" value="@Test"/>
+    <property name="user.name" value="graje"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\windows"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 140 Stepping 1, GenuineIntel"/>
+    <property name="IntelliJ IDEA Community Edition" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.3\bin;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\graje\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/X_Maven_API/5/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="BUILD_TAG" value="jenkins-X_Maven_API-5"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\graje\Downloads\apache-maven-3.8.4-bin\apache-maven-3.8.4 C:\Users\graje\.jenkins\war\WEB-INF\lib\remoting-4.11.2.jar C:\Users\graje\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\graje\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 64682"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="6b81d207a851ab6c"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_333\bin"/>
+    <property name="java.io.tmpdir" value="C:\Users\graje\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\graje\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/X_Maven_API/5/"/>
+    <property name="M2_HOME" value="C:\Users\graje\Downloads\apache-maven-3.8.4-bin\apache-maven-3.8.4"/>
+    <property name="=C:" value="C:\Users\graje\Downloads"/>
+    <property name="ZES_ENABLE_SYSMAN" value="1"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="CI" value="true"/>
+    <property name="BUILD_DISPLAY_NAME" value="#5"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="6b81d207a851ab6c"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\graje\.jenkins\workspace\X_Maven_API@tmp"/>
+    <property name="MAVEN_HOME" value="C:\Users\graje\Downloads\apache-maven-3.8.4-bin\apache-maven-3.8.4"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Users\graje\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="HOMEPATH" value="\Users\graje"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="5"/>
+    <property name="maven3.interceptor" value="C:\Users\graje\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_333\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Users\graje\Downloads\apache-maven-3.8.4-bin\apache-maven-3.8.4/bin;C:\Program Files\Java\jdk1.8.0_333/bin;C:\Program Files\Java\jdk1.8.0_333\bin;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="FreeCRMBDDFramework"/>
+    <property name="POM_ARTIFACTID" value="FinalEOEAPI"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/X_Maven_API/"/>
+    <property name="platformcode" value="KV"/>
+    <property name="OneDrive" value="C:\Users\graje\OneDrive"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/X_Maven_API/5/display/redirect"/>
+    <property name="JENKINS_HOME" value="C:\Users\graje\.jenkins"/>
+    <property name="BUILD_ID" value="5"/>
+    <property name="TEMP" value="C:\Users\graje\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_333\jre\bin"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="8c01"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Users\graje\.jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Users\graje\Downloads\apache-maven-3.8.4-bin\apache-maven-3.8.4/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="SHREYANVI"/>
+    <property name="SCITE_USERHOME" value="C:\Users\graje\AppData\Local\AutoIt v3\SciTE"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/X_Maven_API/5/display/redirect?page=artifacts"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_333"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\graje"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/X_Maven_API/display/redirect"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_333\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\graje"/>
+    <property name="USERNAME" value="graje"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="F:\FinalAPIREstAssuredProject\FinalEOEAPI"/>
+    <property name="maven.conf" value="C:\Users\graje\Downloads\apache-maven-3.8.4-bin\apache-maven-3.8.4\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\graje\AppData\Local\Temp"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.333-b02"/>
+    <property name="java.class.path" value="C:\Users\graje\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Users\graje\Downloads\apache-maven-3.8.4-bin\apache-maven-3.8.4\boot\plexus-classworlds-2.6.0.jar;C:\Users\graje\Downloads\apache-maven-3.8.4-bin\apache-maven-3.8.4/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="RegionCode" value="APJ"/>
+    <property name="OneDriveConsumer" value="C:\Users\graje\OneDrive"/>
+    <property name="WORKSPACE" value="C:\Users\graje\.jenkins\workspace\X_Maven_API"/>
+    <property name="ComSpec" value="C:\windows\system32\cmd.exe"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/X_Maven_API/5/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="SystemRoot" value="C:\windows"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.runtime.version" value="1.8.0_333-b02"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_333\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_333\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_333\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_333\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_333\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_333\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_333\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_333\jre\classes"/>
+    <property name="OnlineServices" value="Online Services"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_333/bin"/>
+    <property name="user.country" value="IN"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Users\graje\Downloads\apache-maven-3.8.4-bin\apache-maven-3.8.4"/>
+    <property name="JOB_BASE_NAME" value="X_Maven_API"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="FinalEOEAPI"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase classname="Delete Place API validation" name="Validating Delete Place" time="1.954">
+    <failure message="expected:&lt;O[]K&gt; but was:&lt;O[o]K&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: expected:&lt;O[]K&gt; but was:&lt;O[o]K&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at stepDefinations.AddPlaceStepDefination.something_in_the_response_should_be_something(AddPlaceStepDefination.java:92)
+	at stepDefinations.AddPlaceStepDefination.user_has_an_add_place_payload(AddPlaceStepDefination.java:103)
+	at ✽.User has an Add Place Payload(file:///F:/FinalAPIREstAssuredProject/FinalEOEAPI/src/test/java/features/ZeletePlacevalidation.feature:6)
+</failure>
+    <system-out>
+@Test
+Scenario: Validating Delete Place                                                                  # src/test/java/features/ZeletePlacevalidation.feature:4
+/maps/api/place/add/json
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			&lt;none&gt;
+Request params:	&lt;none&gt;
+Query params:	key=qaclick123
+Form params:	&lt;none&gt;
+Path params:	&lt;none&gt;
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		&lt;none&gt;
+Multiparts:		&lt;none&gt;
+Body:
+{
+    &quot;location&quot;: {
+        &quot;lat&quot;: &quot;-40.3456&quot;,
+        &quot;lng&quot;: &quot;-60.3456&quot;,
+        &quot;latitude&quot;: null,
+        &quot;longitude&quot;: null
+    },
+    &quot;accuracy&quot;: &quot;50&quot;,
+    &quot;name&quot;: &quot;sairtyu&quot;,
+    &quot;phone_number&quot;: &quot;12345676543&quot;,
+    &quot;address&quot;: &quot;bangalore&quot;,
+    &quot;types&quot;: [
+        &quot;shoe park hotel&quot;,
+        &quot;shop address&quot;
+    ],
+    &quot;website&quot;: &quot;http://xtz.com&quot;,
+    &quot;language&quot;: &quot;English&quot;
+}
+HTTP/1.1 200 OK
+Date: Sat, 23 Jul 2022 07:14:17 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    &quot;status&quot;: &quot;OK&quot;,
+    &quot;place_id&quot;: &quot;5a13c202581ee1c42951c9da358453ae&quot;,
+    &quot;scope&quot;: &quot;APP&quot;,
+    &quot;reference&quot;: &quot;246744b764237b8db5b9c174147061a0246744b764237b8db5b9c174147061a0&quot;,
+    &quot;id&quot;: &quot;246744b764237b8db5b9c174147061a0&quot;
+}
+5a13c202581ee1c42951c9da358453ae
+APP
+  Given User has an Add Place Payload                                                              # stepDefinations.AddPlaceStepDefination.user_has_an_add_place_payload()
+      org.junit.ComparisonFailure: expected:&lt;O[]K&gt; but was:&lt;O[o]K&gt;
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at stepDefinations.AddPlaceStepDefination.something_in_the_response_should_be_something(AddPlaceStepDefination.java:92)
+	at stepDefinations.AddPlaceStepDefination.user_has_an_add_place_payload(AddPlaceStepDefination.java:103)
+	at âœ½.User has an Add Place Payload(file:///F:/FinalAPIREstAssuredProject/FinalEOEAPI/src/test/java/features/ZeletePlacevalidation.feature:6)
+
+  When user calls &quot;DeletePlace&quot; API using &quot;DELETE&quot; http Request using &lt;name&gt; &lt;address&gt; and &lt;phone&gt; # stepDefinations.AddPlaceStepDefination.user_calls_something_api_using_something_http_request_using_and(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+  Then validate the place id has been deleted                                                      # stepDefinations.DeletePlaceStepDefination.validate_the_place_id_has_been_deleted()
+</system-out>
+  </testcase>
+</testsuite>
