@@ -37,6 +37,7 @@ public class AddPlaceStepDefination extends Utils {
 		
 
 		hp = given().log().all().spec(request());
+		System.out.println("From Y its Hi");
 
 	}
 
@@ -79,6 +80,7 @@ public class AddPlaceStepDefination extends Utils {
 
          
 		System.out.println(resp.getStatus());
+		System.out.println("From Y its Hi");
 
 	}
 
