@@ -40,6 +40,7 @@ public class AddPlaceStepDefination extends Utils {
 
 	}
 
+	//Hi...Hellow...From GitHUB
 	@When("^user calls \"([^\"]*)\" API using \"([^\"]*)\" http Request using (.+) (.+) and (.+)$")
     public void user_calls_something_api_using_something_http_request_using_and(String resource, String httpMethod, String name, String address, String phone) throws Throwable {
 
